@@ -45,7 +45,3 @@ The model achieves a high accuracy in classifying spam and ham emails. The evalu
 ## Contributing
 
 Feel free to contribute to this project by improving the model, adding new features, or enhancing the documentation.
-
-## License
-
-This project is licensed under the MIT License.
